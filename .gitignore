@@ -1,15 +1,12 @@
-Server/VirtualClient/bin/Debug/Script.txt
-Server/VirtualClient/bin/Debug/VirtualClient.vshost*.*
-Server/VirtualClient/bin/vc_cobby93/
-Server/VirtualClient/bin/vc_cobby94/
-Server/VirtualClient/bin/vc_cobby95/
-Server/VirtualClient/bin/vc_connector/*.xml
-Server/VirtualClient/bin/vc_connector/*.config
-Server/VirtualClient/bin/vc_connector/VirtualClient.vshost.*
-
-Server/VirtualClient/obj/
-Server/VirtualClient/.vs/
-Server/VirtualClient/Script.txt
+/fullserializer-master/Library
+/fullserializer-master/Temp
+/fullserializer-master/obj
+/fullserializer-master/AssetBundles
+/fullserializer-master/.vs
+/fullserializer-master/*.csproj
+/fullserializer-master/fullserializer-master.sln
+/fullserializer-master/*.userprefs
+/fullserializer-master/*csharp.sin
 
 
 #ignore thumbnails created by windows
@@ -34,3 +31,4 @@ Thumbs.db
 *.lib
 *.sbr
 *.sln
+
