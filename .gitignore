@@ -31,4 +31,5 @@ Thumbs.db
 *.lib
 *.sbr
 *.sln
-
+*.yml
+*csproj
